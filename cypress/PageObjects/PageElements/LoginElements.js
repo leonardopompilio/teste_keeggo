@@ -1,4 +1,5 @@
 class LoginElements{
+        urlPagina = 'https://www.advantageonlineshopping.com/#/'
         search = '#menuUser'
         username = 'username'
         password = 'password'

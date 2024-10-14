@@ -1,7 +1,8 @@
 class SearchProductElements{
         search = '#menuSearch'
         barraDeBusca = '#autoComplete'
-        addToCart = 'save_to_cart'
+        addToCart = 'ADD TO CART'
+        produto = '.product'  
 }
 
 

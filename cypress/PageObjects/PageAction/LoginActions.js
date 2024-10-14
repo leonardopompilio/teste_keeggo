@@ -3,7 +3,7 @@ import LoginElements from '../PageElements/LoginElements'
 
 class LoginActions{
     paginaInicial(){
-        cy.visit(LoginElements.url)
+        cy.visit(LoginElements.urlPagina)
     }
     
     botaologin(){
